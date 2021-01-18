@@ -4,28 +4,7 @@ English: This Program can only be used one day before Christmas.
 
 
 
-
-
-
-
-
-
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
